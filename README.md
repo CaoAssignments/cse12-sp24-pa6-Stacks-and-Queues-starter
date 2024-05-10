@@ -1,6 +1,6 @@
 # CSE 12 Spring 2024 PA6 - Stacks and Queues with a Deque
 
-There is an FAQ post on Piazza. **Due date: Thursday, May 15 @ 11:59 PM PST**
+There is an FAQ post on Piazza. **Due date: Thursday, May 16 @ 11:59 PM PST**
 
 ### **Learning goals:**
 
